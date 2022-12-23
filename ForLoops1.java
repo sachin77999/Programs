@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class ForLoops1 {
+public class ForLoops1 
+{
 
     public static void main(String args[])
     {
@@ -10,4 +11,4 @@ public class ForLoops1 {
     }
 
     }
-}
+
